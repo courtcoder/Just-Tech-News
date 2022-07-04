@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS Just_Tech_News_db;
+CREATE DATABASE Just_Tech_News_db;
